@@ -54,7 +54,7 @@ AI-Tool-Calling-Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/khayati628/newssummarizer
+git clone https://github.com/khayati628/news-summarizer
 cd news-summarizer
 ```
 
